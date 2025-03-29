@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nb1/XxX3/d4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furkan.bicer\\VsCodeProjects\\BlackKiteAPITestsFurkan\\BlackKiteApiLib\\BlackKiteApiLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furkan.bicer\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

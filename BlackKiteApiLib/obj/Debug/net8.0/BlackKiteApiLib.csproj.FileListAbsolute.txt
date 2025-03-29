@@ -1,0 +1,12 @@
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\bin\Debug\net8.0\BlackKiteApiLib.deps.json
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\bin\Debug\net8.0\BlackKiteApiLib.dll
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\bin\Debug\net8.0\BlackKiteApiLib.pdb
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.csproj.AssemblyReference.cache
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.AssemblyInfoInputs.cache
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.AssemblyInfo.cs
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.csproj.CoreCompileInputs.cache
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.dll
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\refint\BlackKiteApiLib.dll
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\BlackKiteApiLib.pdb
+C:\Users\furkan.bicer\VsCodeProjects\BlackKiteAPITestsFurkan\BlackKiteApiLib\obj\Debug\net8.0\ref\BlackKiteApiLib.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackKiteApiLib", "BlackKiteApiLib\BlackKiteApiLib.csproj", "{C54D5FC0-C5C8-461E-92F0-FF86FFF297FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackKiteApiTests", "BlackKiteApiTests\BlackKiteApiTests.csproj", "{FF437D40-3F44-4CBB-8099-D2F1ADD832CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54D5FC0-C5C8-461E-92F0-FF86FFF297FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54D5FC0-C5C8-461E-92F0-FF86FFF297FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54D5FC0-C5C8-461E-92F0-FF86FFF297FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54D5FC0-C5C8-461E-92F0-FF86FFF297FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF437D40-3F44-4CBB-8099-D2F1ADD832CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF437D40-3F44-4CBB-8099-D2F1ADD832CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF437D40-3F44-4CBB-8099-D2F1ADD832CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF437D40-3F44-4CBB-8099-D2F1ADD832CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
